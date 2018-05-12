@@ -1,0 +1,3 @@
+[submodule "nodejs-simple-file-server"]
+	path = nodejs-simple-file-server
+	url = https://github.com/uddalakdas/nodejs-simple-file-server.git
